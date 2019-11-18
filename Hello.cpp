@@ -11,9 +11,8 @@ int main()
     cin>>b;
 
     sum=a+b;
-    cout<<"Sum of two integer: "<<sum<<endl;
-    int c=2;
-    cout<<"Now int(C) added with Sum: "<<sum+c<<endl;
-    
+
+    cout<<"\nSum of two integer: "<<sum<<endl;
+
     getch();
 }
